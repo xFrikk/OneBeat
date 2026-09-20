@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/" name="peatonal">
+	<sprite type="none" sprite="teststage" name="stage"/>
+	<dad x="811.2591131171" y="870.153180647656"/>
+	<boyfriend x="1603.57755870667" y="897.335056154205"/>
+	<girlfriend x="1210.92599461138" y="737.06191775377"/>
+</stage>

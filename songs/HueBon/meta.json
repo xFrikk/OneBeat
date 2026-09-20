@@ -1,0 +1,15 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "Leo",
+	"difficulties": [
+		"Webada",
+		"wbn"
+	],
+	"color": "#FFFFFF",
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "HueBon",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 175
+}

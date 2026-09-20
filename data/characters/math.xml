@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="spooky" color="#B7BBC4">
+	<anim name="idle" anim="spooky dance idle"/>
+	<anim name="singDOWN" anim="spooky DOWN note"/>
+	<anim name="singRIGHT" anim="spooky sing right"/>
+	<anim name="singLEFT" anim="note sing left"/>
+	<anim name="singUP" anim="spooky UP NOTE"/>
+</character>

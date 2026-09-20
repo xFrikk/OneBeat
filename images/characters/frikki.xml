@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="frikki.png">
+<SubTexture name="frikki up0000" x="1013" y="0" width="562" height="1324" frameX="-36" frameY="-124" frameWidth="599" frameHeight="1516" />
+<SubTexture name="frikki left0000" x="535" y="0" width="478" height="1342" frameX="-59" frameY="-76" frameWidth="566" frameHeight="1418" />
+<SubTexture name="frikki right0000" x="2041" y="0" width="592" height="1303" frameX="-16" frameY="-52" frameWidth="644" frameHeight="1355" />
+<SubTexture name="frikki down0000" x="1575" y="0" width="466" height="1312" frameX="-98" frameY="-24" frameWidth="618" frameHeight="1362" />
+<SubTexture name="frikki idle0000" x="0" y="0" width="535" height="1432" frameX="-66" frameY="-60" frameWidth="658" frameHeight="1492" />
+</TextureAtlas>

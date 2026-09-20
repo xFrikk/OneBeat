@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="hallway/" name="hallway">
+	<sprite x="-852.353096280025" sprite="hallway" y="-660.349454365138" type="none" scalex="1.6231636812097" scaley="1.43796741241292" name="hallway"/>
+	<dad x="-114.321456949198" y="29.5077972881894"/>
+	<boyfriend x="864.014114576496" y="46.3043823729367"/>
+	<girlfriend x="435.965850847477" y="-82.0000000000001"/>
+	<sprite x="-1034.43916270071" sprite="filter" y="-866.674146923721" type="none" scalex="1.57976367498554" scaley="1.92335435347659" name="filter"/>
+</stage>

@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="mom" color="#A6014F">
+	<anim name="idle" anim="Mom Idle"/>
+	<anim name="singDOWN" anim="MOM DOWN POSE"/>
+	<anim name="singRIGHT" anim="Mom Pose Left"/>
+	<anim name="singLEFT" anim="Mom Left Pose"/>
+	<anim name="singUP" anim="Mom Up Pose"/>
+	<anim name="Mom Pose Left" anim="Mom Pose Left"/>
+</character>

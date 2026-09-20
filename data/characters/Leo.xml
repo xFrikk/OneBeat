@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="frikki" scale="0.5" camx="-120" camy="-450" color="#FFFFFF">
+	<anim name="idle" anim="frikki idle" x="148" y="740"/>
+	<anim name="singDOWN" anim="frikki down" x="144" y="568"/>
+	<anim name="singRIGHT" anim="frikki right" x="92" y="620"/>
+	<anim name="singLEFT" anim="frikki left" x="88" y="648"/>
+	<anim name="singUP" anim="frikki up" x="92" y="696"/>
+</character>
